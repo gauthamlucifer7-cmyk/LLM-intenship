@@ -19,7 +19,7 @@ vectors fetched from the vector database against a specific user message - to be
 generating AI response.
 
 Here are some sample JSONs for your convenience: 
-https://drive.google.com/drive/folders/1Uu0Jr7TW0Gb96uCJJ50DYJp
+https://drive.google.com/drive/folders/1Uu0Jr7TW0Gb96uCJJ50DYJpg_tIUnJRa
 g_tIUnJRa
 ChatGPT said:
 Below is a complete Python evaluation pipeline that you can run as-is.
