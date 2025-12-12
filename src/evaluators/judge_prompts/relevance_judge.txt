@@ -1,0 +1,2 @@
+Score from 0 to 1 based on relevance and completeness.
+Return only a number.
