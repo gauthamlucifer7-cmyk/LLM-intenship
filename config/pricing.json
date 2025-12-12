@@ -1,0 +1,10 @@
+{
+  "gpt-4.1": {
+    "prompt_per_1k": 0.002,
+    "completion_per_1k": 0.004
+  },
+  "gpt-4.1-mini": {
+    "prompt_per_1k": 0.001,
+    "completion_per_1k": 0.002
+  }
+}
