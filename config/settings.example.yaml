@@ -1,0 +1,7 @@
+openai:
+  api_key: "YOUR_KEY_HERE"
+models:
+  default_model: "gpt-4.1"
+paths:
+  results_dir: "results"
+  
