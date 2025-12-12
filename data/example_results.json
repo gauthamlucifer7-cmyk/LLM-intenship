@@ -1,0 +1,9 @@
+{
+  "response": "Quantum computers use qubits...",
+  "metrics": {
+    "relevance": 0.95,
+    "accuracy": 0.92,
+    "latency_ms": 221,
+    "cost_usd": 0.0008
+  }
+}
