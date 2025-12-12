@@ -1,0 +1,12 @@
+{
+  "chunks": [
+    {
+      "id": "chunk1",
+      "text": "Quantum computers use qubits which can exist in multiple states simultaneously."
+    },
+    {
+      "id": "chunk2",
+      "text": "They exploit superposition and entanglement to perform computations faster."
+    }
+  ]
+}
